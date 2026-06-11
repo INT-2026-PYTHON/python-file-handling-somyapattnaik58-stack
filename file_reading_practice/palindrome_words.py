@@ -64,4 +64,4 @@ with open("sowpods.txt", "r") as file:
             print(word)
             count += 1
 
-print("Total palindromes:", count
+print("Total palindromes:", count)
